@@ -17,7 +17,7 @@ A beautiful volcano-themed overlay for OBS that displays currently playing songs
 
 ### 🚀 Download Latest Release
 
-Get the latest version by downloading the `.exe` file from the [releases page](https://github.com/username/youtube-music-obs-overlay/releases). ⬇️
+Get the latest version by downloading the `.exe` file from the [releases page](https://github.com/devhayd3n/youtube-music-obs-overlay/releases). ⬇️
 
 ### 🔧 Manual Installation
 
