@@ -28,7 +28,7 @@ Get the latest version by downloading the `.exe` file from the [releases page](h
    ```
 3. ▶️ Run the application:
    ```bash
-   npm start
+   npx electron .
    ```
 
 ## 🎮 Usage
