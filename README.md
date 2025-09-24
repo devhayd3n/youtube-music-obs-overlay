@@ -2,6 +2,9 @@
 
 A beautiful volcano-themed overlay for OBS that displays currently playing songs from YouTube Music with animated fire effects! 🔥
 
+![Overlay Preview](https://github.com/user-attachments/assets/b29f79c7-798e-4e28-9801-6f43c95b2802)
+
+
 ## ✨ Features
 
 - **🎯 Real-time song tracking** - Automatically detects and displays currently playing songs from YouTube Music
